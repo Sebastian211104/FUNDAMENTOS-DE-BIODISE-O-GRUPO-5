@@ -13,5 +13,5 @@
 >   encargado de modelado 3D
 >
 > * **Hudson Oliva Gonzales**
->   
+>   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
 >   software
