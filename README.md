@@ -12,4 +12,6 @@
 >
 >   encargado de modelado 3D
 >
-> * **alguien más**
+> * **Hudson Oliva Gonzales**
+>   
+>   software
