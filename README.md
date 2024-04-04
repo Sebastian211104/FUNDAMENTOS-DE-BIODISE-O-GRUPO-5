@@ -9,6 +9,8 @@
 > * **Sebastian Fabrizio Sulca Garay**
 >
 >   Estudiante cursando el 4to ciclo de ingenieria biomedica.Interesado en el área clínica y biomecánica.Tengo gustos hacia la informatica y el montaje de circuitos electricos además del fútbol y la música. Mi rol en este proyecto es el de coordinador general.
+>
+>  ![Foto](https://photos.app.goo.gl/gMopGJCrPrgEg3dd7)
 > * **Luis Alejandro Luque Prado**
 >   
 >   Estudiante de ingenieria biomedica, perteneciente a la Pontifica universidad catolica del peru. Tengo 19 años, me gusta el basketball. Mi rol se centra en el diseño del prototipo en 3D usando autocad.
