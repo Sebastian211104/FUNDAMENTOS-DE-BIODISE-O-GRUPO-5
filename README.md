@@ -14,11 +14,14 @@
 >   Estudiante de ingenieria biomedica, perteneciente a la Pontifica universidad catolica del peru. Tengo 19 años, me gusta el basketball. Mi rol se centra en el diseño del prototipo en 3D usando autocad.
 >
 > * **Hudson Oliva Gonzales**
+>   
 >   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
 >   software
 > * **Salas Sotelo Aleks**
->     tengo 18 años,soy de Ica, hago deportes de combate. Mi rol es el de coordinador de el area de electronica.
+> 
+>   Tengo 18 años,soy de Ica, hago deportes de combate. Mi rol es el de coordinador de el area de electronica.
 > * **Ariana Abigail Marcos Balcazar**
+>   
 >   Estudiante de Ingenieria
 Biomedica de la Pontifica Universidad Catolica del
 Perú y la Universidad
