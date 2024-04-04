@@ -16,3 +16,8 @@
 >   software
 > * **Salas Sotelo Aleks**
 >     tengo 18 años,soy de ica, hago deportes de combate. Mi rol el de coordinador de electronica.
+> * **Ariana Abigail Marcos Balcazar**
+>   Estudiante de Ingenieria
+Biomedica de la Pontifica Universidad Catolica del
+Perú y la Universidad
+Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biomateriales. Mi rol en el proyecto del curso de Fundamentos de Biodiseño es en el área de investigación y programación.
