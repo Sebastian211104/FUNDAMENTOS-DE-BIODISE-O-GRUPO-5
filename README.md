@@ -26,3 +26,6 @@
 Biomedica de la Pontifica Universidad Catolica del
 Perú y la Universidad
 Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biomateriales. Mi rol en el proyecto del curso de Fundamentos de Biodiseño es en el área de investigación y programación.
+> * **Adriana Martha Valerio Dominguez**
+>
+>   Tengo 19 años, nací en ciudad de Huancayo, estudio Ingenieria Biomedica en las universidades PUCP y UPCH, me gusta el futbol, el voley y los videojuegos, mi rol en el equipo es el de investigar.
