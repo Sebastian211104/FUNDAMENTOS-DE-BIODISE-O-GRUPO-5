@@ -14,4 +14,5 @@
 > * **Hudson Oliva Gonzales**
 >   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
 >   software
-
+>   * **Salas Sotelo Aleks**
+>     tengo 18 años,soy de ica, hago deportes de combate. Mi rol el de coordinador de electronica.
