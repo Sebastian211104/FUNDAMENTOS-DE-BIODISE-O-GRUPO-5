@@ -1,11 +1,10 @@
 
 # FUNDAMENTOS-DE-BIODISE-O-GRUPO-5
-#<p align="center" > fundamentos de biodiseño</p>
 
 ## Descripción del curso 
 
->relleno 🎱
->
+>El objetivo principal del curso es introducirnos a nosotros como estudiantes al proceso de diseño e innovación de propuestas tecnologicas relacionadas a la salud y rehabilitacion con el proposito de crear una solucion relevante para la sociedad actual. Todo esto gracias a la guia y ayuda de especialistas en diversas areas de la ingenieria y de la salud.Gracias a su ayuda podremos proponer una solucion a una problematica especifica para cada grupo, en nuestro caso discapacidad motora.
+
 ## Miembros del equipo 5
 
 > * **Luis Alejandro Luque Prado**
