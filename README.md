@@ -18,11 +18,12 @@
 >   Estudiante de ingenieria biomedica, perteneciente a la Pontifica universidad catolica del peru. Tengo 19 años, me gusta el basketball. Mi rol se centra en el diseño del prototipo en 3D usando autocad.
 >
 > * **Hudson Oliva Gonzales**
->   
->   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
->   software
+>
 >    ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/d00ba247-fbdb-4b88-a758-9742bdbed53b)
 
+>   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
+>   software
+>    
 > * **Salas Sotelo Aleks**
 >
 >  ![WhatsApp Image 2024-04-04 at 8 48 50 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/56ac4e03-9471-48e6-b0bc-812d4cdbbb83)
@@ -33,7 +34,10 @@
 
 
 > * **Ariana Abigail Marcos Balcazar**
->   
+>
+>  ![abigail](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/6c4506eb-648b-4ad4-ab99-e78fe682b8d6)
+
+
 >   Estudiante de Ingenieria
 Biomedica de la Pontifica Universidad Catolica del
 Perú y la Universidad
