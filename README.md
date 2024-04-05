@@ -22,9 +22,11 @@
 >   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
 >   software
 > * **Salas Sotelo Aleks**
-> 
+>
+>  ![WhatsApp Image 2024-04-04 at 8 48 50 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/56ac4e03-9471-48e6-b0bc-812d4cdbbb83)
+
 >   Tengo 18 años,soy de Ica, hago deportes de combate. Mi rol es el de coordinador de el area de electronica.
->   ![FOTO  (1)](![WhatsApp Image 2024-04-04 at 8 13 58 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528594/9f7f5128-d13a-406e-b9d1-2d9b95566c6c))
+>   
 
 
 
