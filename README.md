@@ -8,6 +8,8 @@
 ## Miembros del equipo 5
 > * **Sebastian Fabrizio Sulca Garay**
 >
+>  ![Foto](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528873/e03e2783-49dd-4573-9083-cff687e4bbc4)
+> 
 >   Estudiante cursando el 4to ciclo de ingenieria biomedica.Interesado en el área clínica y biomecánica.Tengo gustos hacia la informatica y el montaje de circuitos electricos además del fútbol y la música. Mi rol en este proyecto es el de coordinador general.
 >
 >  ![Foto](https://photos.app.goo.gl/gMopGJCrPrgEg3dd7)
