@@ -24,7 +24,8 @@
 > * **Salas Sotelo Aleks**
 > 
 >   Tengo 18 años,soy de Ica, hago deportes de combate. Mi rol es el de coordinador de el area de electronica.
->   ![FOTO  (1)](![WhatsApp Image 2024-04-04 at 8 13 58 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528594/95a2cff9-435e-46cb-95b2-67a1406b95de))
+>   ![FOTO  (1)](![WhatsApp Image 2024-04-04 at 8 44 43 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528594/0e12f491-b550-431e-857c-a11f36936c16))
+
 
 > * **Ariana Abigail Marcos Balcazar**
 >   
