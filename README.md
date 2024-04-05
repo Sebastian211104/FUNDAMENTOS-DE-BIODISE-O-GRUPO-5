@@ -13,7 +13,7 @@
 >  ![Foto](https://photos.app.goo.gl/gMopGJCrPrgEg3dd7)
 > * **Luis Alejandro Luque Prado**
 >
-<p align-"center"> <ing ![FOTO PASAPORTE (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/7b0bc8e1-702c-420f-9fda-6f73ad403b47)> </p>
+> ![FOTO PASAPORTE (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/7b0bc8e1-702c-420f-9fda-6f73ad403b47)
 
 >   Estudiante de ingenieria biomedica, perteneciente a la Pontifica universidad catolica del peru. Tengo 19 años, me gusta el basketball. Mi rol se centra en el diseño del prototipo en 3D usando autocad.
 >
