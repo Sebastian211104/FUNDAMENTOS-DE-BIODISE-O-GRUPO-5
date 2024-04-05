@@ -39,3 +39,5 @@ Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biom
 > * **Adriana Martha Valerio Dominguez**
 >
 >   Tengo 19 años, nací en ciudad de Huancayo, estudio Ingenieria Biomedica en las universidades PUCP y UPCH, me gusta el futbol, el voley y los videojuegos, mi rol en el equipo es el de investigar.
+>   ![yo 2](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/37090337-09a9-4469-9770-8792393d00d8)
+
