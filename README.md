@@ -51,5 +51,18 @@ Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biom
 
 >   Entregable 2:
 
+>La discapacidad motora es un asunto que requiere nuestra total atención y comprensión. Esta es una problematica que afecta a una considerable porción de la población global y afecta la forma en que desarrollan su vida cotidiana, aca en este trabajo buscaremos diseñar un prototipo que sirva para facilitar su vida en cuanto a buscar una alimentacion independiente.
+>
+>Estado del arte:
+>* **Alimentación activa asistida por robot con un manipulador móvil de uso general:**
+>* El artículo detalla un sistema de asistencia alimentaria que utiliza un robot móvil PR2 de Willow Garage, diseñado para ayudar a personas con discapacidades motoras a alimentarse de manera autónoma. El sistema emplea un marco de alimentación activa que permite al robot entregar alimentos directamente a la boca del usuario, reduciendo así la necesidad de movimientos de cabeza por parte del usuario. La interfaz de usuario, comportamientos guiados visualmente y medidas de seguridad facilitan su uso por parte de personas con discapacidades motoras graves. 
+>Active robot-assisted feeding with a general-purpose mobile manipulator: Design, evaluation, and lessons learned
+ Daehyung Park  (2020)
+![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/31b62fab-5b14-4a73-b642-ff3c698a0f69)
+
+ 
+
   ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/df97f0b6-a93d-4fa0-84a8-36a10300bb99)
+
+  Estado 
 
