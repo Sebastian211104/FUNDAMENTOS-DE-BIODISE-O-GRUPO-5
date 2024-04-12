@@ -8,7 +8,7 @@
 ## Miembros del equipo 5
 > * **Sebastian Fabrizio Sulca Garay (Coordinador General)**
 >
->  ![Foto Github](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528873/78dd03ce-34d4-439b-b6e8-7552bb0acc00){width=400 height=400}
+>  ![Foto Github](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528873/78dd03ce-34d4-439b-b6e8-7552bb0acc00 )
 
 Fuente: https://www.iteramos.com/pregunta/89805/cambiar-el-tamano-de-la-imagen-en-markdown-en-gitlab
 > 
