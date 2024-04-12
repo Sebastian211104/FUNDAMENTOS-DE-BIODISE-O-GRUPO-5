@@ -50,5 +50,6 @@ Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biom
 >   Tengo 19 años, nací en ciudad de Huancayo, estudio Ingenieria Biomedica en las universidades PUCP y UPCH, me gusta el futbol, el voley y los videojuegos. Estoy interesada en Ingenieria de tejidos y Ingenieria Clinica. Mi rol en el equipo es el de investigar.
 
 >   Entregable 2:
+
   ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/df97f0b6-a93d-4fa0-84a8-36a10300bb99)
 
