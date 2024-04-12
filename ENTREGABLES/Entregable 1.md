@@ -24,7 +24,7 @@ Usuario despierto, sin embargo, no conecta con el evaluador, se evidencia défic
 >
 - **ESTADO DEL ARTE**
 >
-> * *Alimentación activa asistida por robot con un manipulador móvil de uso general:*
+> * **Alimentación activa asistida por robot con un manipulador móvil de uso general:**
 > 
 > ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/31b62fab-5b14-4a73-b642-ff3c698a0f69)
 >
@@ -33,7 +33,7 @@ Usuario despierto, sin embargo, no conecta con el evaluador, se evidencia défic
 >
 >  El artículo detalla un sistema de asistencia alimentaria que utiliza un robot móvil PR2 de Willow Garage, diseñado para ayudar a personas con discapacidades motoras a alimentarse de manera autónoma. El sistema emplea un marco de alimentación activa que permite al robot entregar alimentos directamente a la boca del usuario, reduciendo así la necesidad de movimientos de cabeza por parte del usuario. La interfaz de usuario, comportamientos guiados visualmente y medidas de seguridad facilitan su uso por parte de personas con discapacidades motoras graves.
 >
-> * *Un sistema robótico de asistencia a las comidas para comida asiática y su estimación del punto de adquisición de alimentos e interfaz de usuario basada en el reconocimiento facial*
+> * **Un sistema robótico de asistencia a las comidas para comida asiática y su estimación del punto de adquisición de alimentos e interfaz de usuario basada en el reconocimiento facial:**
 >
 > ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/bcb6806d-2829-4f9d-be25-52780c8f606c)
 >
@@ -41,7 +41,7 @@ Usuario despierto, sin embargo, no conecta con el evaluador, se evidencia défic
 >
 > Este artículo aborda los desafíos actuales en los sistemas de robots de asistencia alimentaria (MAR), especialmente en la adaptación a las dietas asiáticas que requieren el uso de palillos. Se propone un nuevo sistema MAR que utiliza tecnología de reconocimiento visual para identificar alimentos en el plato y planificar el movimiento del robot para adquirirlos. Este sistema ofrece opciones tanto de palillos como de cuchara, y cuenta con una interfaz de usuario sin contacto basada en reconocimiento facial para facilitar su uso por parte de personas con discapacidades graves. Experimentos realizados validan la eficacia y viabilidad de esta propuesta.
 >
-> * *Alimentación robótica con visión aumentada*
+> * **Alimentación robótica con visión aumentada:**
 >
 > ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/143018597/49ae6ea4-2364-444c-8369-cb8076d51cf1)
 >
@@ -49,7 +49,7 @@ Usuario despierto, sin embargo, no conecta con el evaluador, se evidencia défic
 >
 > En este artículo menciona un robot diseñado para asistir a personas con discapacidades que dificultan la alimentación por sí mismas. Este robot utiliza cámaras para detectar la posición de la boca del usuario y la cantidad de comida en la cuchara. La detección visual permite al robot ajustar su movimiento y asegurarse de que la comida se entregue correctamente. Los autores destacan que esta capacidad mejora significativamente el rendimiento del sistema de alimentación. Además, se discute cómo este enfoque puede mejorar la autonomía de las personas con discapacidad y hacer que las comidas sean más sociales y personalizadas.
 >
-> * *Sistema de alimentacion asistida adaptable,seguro y portable*
+> * **Sistema de alimentacion asistida adaptable,seguro y portable:**
 >
 > ![Captura de pantalla 2024-04-12 010220](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/ffdeef5b-e35e-43a0-b76a-ea5cf58321f1)
 >
