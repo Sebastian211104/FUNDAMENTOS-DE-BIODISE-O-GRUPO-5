@@ -13,7 +13,7 @@ Posterior a hospitalización acude a consulta, en cuyo examen físico se evidenc
 Usuario despierto, sin embargo, no conecta con el evaluador, se evidencia déficit visual y auditivo, no logra bipedestación, rangos funcionales a la movilización pasiva , se evidencia movilidad activa en la flexión de codo, logra giros en cama. Cuidadora refirió dependencia total en las AVDs, consultó a su hijo a través de señas en la frente que actividad le gustaría iniciar tratamiento, refiriendo el de alimentación. Por los cual se inicia tratamiento terapéutico de AVDS alimentación por 8 sesiones.
 >
 > 
-- *PROBLEMATICA*
+- **PROBLEMATICA**
 >
 > Cuando una persona con discapacidad motora no cuenta con las adaptaciones necesarias para alimentarse, su independencia se ve comprometida. La dificultad para alcanzar los alimentos o usar utensilios diseñados para sus necesidades específicas puede generar dependencia en otros para comer. Esta situación no solo afecta su autoestima al hacerles sentir menos capaces y valorados, sino que también puede tener un impacto en su salud al restringir sus opciones alimenticias y la posibilidad de disfrutar de sus comidas preferidas.
 >
