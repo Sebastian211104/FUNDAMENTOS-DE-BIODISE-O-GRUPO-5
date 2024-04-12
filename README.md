@@ -50,7 +50,11 @@ Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biom
 >   Tengo 19 años, nací en ciudad de Huancayo, estudio Ingenieria Biomedica en las universidades PUCP y UPCH, me gusta el futbol, el voley y los videojuegos. Estoy interesada en Ingenieria de tejidos y Ingenieria Clinica. Mi rol en el equipo es el de investigar.
 
 
->   Entregable 1:
+
+
+
+
+>* **Entregable 1:**
 
 >La discapacidad motora es un asunto que requiere nuestra total atención y comprensión. Esta es una problematica que afecta a una considerable porción de la población global y afecta la forma en que desarrollan su vida cotidiana, aca en este trabajo buscaremos diseñar un prototipo que sirva para facilitar su vida en cuanto a buscar una alimentacion independiente.
 >
