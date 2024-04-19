@@ -73,9 +73,9 @@ Obi aumenta la independencia, la interacción social, el disfrute de la comida y
 >
 >Fabricante: Desin LLC
 >
->-https://www.youtube.com/watch?v=YcmlTvm9g4Q
+>- https://www.youtube.com/watch?v=YcmlTvm9g4Q
 >
->-Han L, Zhou X, Meng C, He Q, Zhao Z. Design of auxiliary feeding device based on single chip microcomputer control system. E3S Web Conf [Internet]. 2021;252:01054. Disponible en: https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/28/e3sconf_pgsge2021_01054.pdf
+>- Han L, Zhou X, Meng C, He Q, Zhao Z. Design of auxiliary feeding device based on single chip microcomputer control system. E3S Web Conf [Internet]. 2021;252:01054. Disponible en: https://www.e3s-conferences.org/articles/e3sconf/pdf/2021/28/e3sconf_pgsge2021_01054.pdf
 >
 >***US20130090756 - SELF-FEEDING DEVICE FOR AN INDIVIDUAL(Patente)***
 >
