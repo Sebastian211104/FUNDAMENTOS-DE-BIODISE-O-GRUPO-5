@@ -85,13 +85,10 @@ Obi aumenta la independencia, la interacción social, el disfrute de la comida y
 >(2013- EEUU)
 >
 - **REQUERIMIENTOS FUNCIONALES**
->![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/4578cd7d-5d4e-49f8-b9ba-5a95c40edc70)
+>![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/a2839269-ae45-4e37-8ed6-c87d22b41d8f)
 >
 - **REQUERIMIENTOS NO FUNCIONALES**
->![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/5ea1d130-38fa-42b9-ae23-e974dc876632)
->
-- **REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES**
->![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/9d91e9ba-9002-48c8-9905-d037d6dcea08)
+>![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/7242e75b-6e95-4f2f-ae52-c188059c8dd2)
 >
 - **PROPUESTA DE SOLUCIÓN**
 > Dispositivo de alimentacion asistida orientado a personas con discapacidad motora, que busca contar con un sistema simple, basado en botones para que el paciente pueda operarlo el mismo. Contara con un brazo robotico que ejercera el movimiento de la cuchara, ademas de tener utensilios reutilizables y una bateria recargable.
