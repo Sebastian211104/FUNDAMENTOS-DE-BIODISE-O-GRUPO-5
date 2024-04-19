@@ -11,7 +11,7 @@
 >https://2021.gies.hk/en/expo/exhibition-products/detail/168.html
 >
 >Bestic es un dispositivo de asistencia alimentaria para pacientes con trastornos neurológicos. Permite comer de forma autónoma mediante un joystick o un botón. La cuchara levanta la comida suavemente, facilitando que el usuario se incline hacia adelante. Se pueden programar varios parámetros, como la altura de la cuchara y el tipo de comida, para adaptarse a las necesidades individuales.
->- https://acortar.link/P6nNoQ
+>- Olaronke I. State of the art: A study of human-robot interaction in healthcare [Internet]. Disponible en: http://repository.futminna.edu.ng:8080/jspui/bitstream/123456789/11545/1/Iroju%2C%20Ojerinde%2C%20Ikono%20-%202017%20-%20State%20Of%20The%20Art%20A%20Study%20of%20Human-Robot%20Interaction%20in%20Healthcare.pdf
 >- https://www.youtube.com/@BesticAB/videos
 >
 >ESPECIFICACION DEL DISPOSITIVO:
