@@ -34,15 +34,9 @@
 >***My spoon:(Producto)***
 >
 >![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/151452dc-670b-4a66-8eda-f379485b6e82)
-
-
-
-
-
-
-
-
-
+>El robot My Spoon está diseñado para ayudar a personas con discapacidades físicas que no pueden alimentarse solas. Esto reduce su dependencia de otros y alivia tensiones familiares, ya que la alimentación a veces puede ser complicada y generar conflictos. También libera a los cuidadores de la tarea de alimentar manualmente al paciente, ya que solo necesitarán controlar el robot con un mando mientras éste se encarga de la parte más difícil: llevar la comida a la boca del paciente.
+>
+>
 >***CN106976094B- SISTEMA DE BRAZO Y MANO ALIMENTADOR:(Patente)***
 >
 >![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/c9bd2ea2-b257-430f-bf74-abbcc84bda8f)
@@ -53,6 +47,13 @@
 El elemento con cuatro superficies internas que son cilíndricas se coloca en el mecanismo de rotación del escritorio.comidatazón, dos diámetros ortogonales a lo largo del escritorio están colocados simétricamente. El mecanismo de recuperación mecánico incluye tenedor ycuchara.En uso, usando una fuente de alimentación accionada con el pie, eligiendo se come, el modo para cambiar de tenercomidarealiza la cena.
 >(Universidad de ciencia y tecnología de Shandong,China,2017)
 >
+>ESPECIFICACION DEL DISPOSITIVO:
+>
+>Peso: 3 kg
+>
+>Dimensiones:  30.6 cm x 40.6 cm x 54.2 cm
+>
+>Fabricante: SECOM
 >
 >***Obi dispositivo de alimentacion asistida:(Producto)***
 >
@@ -93,5 +94,5 @@ Obi aumenta la independencia, la interacción social, el disfrute de la comida y
 >![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/9d91e9ba-9002-48c8-9905-d037d6dcea08)
 >
 - **PROPUESTA DE SOLUCIÓN**
-> Dispositivo de alimentacion asistida orientado a personas con discapacidad motora, que busca contar con un sistema de simple, basado en botones para que el paciente pueda operarlo el mismo. Contara con un brazo robotico que ejercera el movimiento de la cuchara, ademas de tener utensilios reutilizables y una bateria recargable.
+> Dispositivo de alimentacion asistida orientado a personas con discapacidad motora, que busca contar con un sistema simple, basado en botones para que el paciente pueda operarlo el mismo. Contara con un brazo robotico que ejercera el movimiento de la cuchara, ademas de tener utensilios reutilizables y una bateria recargable.
 
