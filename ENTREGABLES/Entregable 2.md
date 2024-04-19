@@ -34,8 +34,8 @@
 >***My spoon:(Producto)***
 >
 >![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/151452dc-670b-4a66-8eda-f379485b6e82)
->El robot My Spoon está diseñado para ayudar a personas con discapacidades físicas que no pueden alimentarse solas. Esto reduce su dependencia de otros y alivia tensiones familiares, ya que la alimentación a veces puede ser complicada y generar conflictos. También libera a los cuidadores de la tarea de alimentar manualmente al paciente, ya que solo necesitarán controlar el robot con un mando mientras éste se encarga de la parte más difícil: llevar la comida a la boca del paciente.
 >
+>El robot My Spoon está diseñado para ayudar a personas con discapacidades físicas que no pueden alimentarse solas. Esto reduce su dependencia de otros y alivia tensiones familiares, ya que la alimentación a veces puede ser complicada y generar conflictos. También libera a los cuidadores de la tarea de alimentar manualmente al paciente, ya que solo necesitarán controlar el robot con un mando mientras éste se encarga de la parte más difícil: llevar la comida a la boca del paciente.
 >
 >***CN106976094B- SISTEMA DE BRAZO Y MANO ALIMENTADOR:(Patente)***
 >
