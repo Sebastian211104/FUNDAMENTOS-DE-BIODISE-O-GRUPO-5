@@ -8,14 +8,15 @@
 ## Miembros del equipo 5
 > * **Sebastian Fabrizio Sulca Garay (Coordinador General)**
 >
->  ![Foto Github](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528873/78dd03ce-34d4-439b-b6e8-7552bb0acc00 )
+>  ![WhatsApp Image 2024-04-19 at 1 14 10 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/2a879c78-2427-4914-b7cc-aa41148b39c2)
 
-> 
+
 >   Estudiante cursando el 4to ciclo de ingenieria biomedica.Interesado en el área clínica y biomecánica.Tengo gustos hacia la informatica y el montaje de circuitos electricos además del fútbol y la música. Mi rol en este proyecto es el de coordinador general.
 >
 > * **Luis Alejandro Luque Prado (Coordinador de Diseño 3D)**
 >
-> ![FOTO PASAPORTE (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/7b0bc8e1-702c-420f-9fda-6f73ad403b47)
+> ![WhatsApp Image 2024-04-19 at 1 14 11 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/c516d23d-0bf4-41e0-8341-2bd4edcb2347)
+
 
 >   Estudiante de ingenieria biomedica, perteneciente a la Pontifica universidad catolica del peru. Tengo 19 años, me gusta el basketball. Mi rol se centra en el diseño del prototipo en 3D usando autocad.
 >
@@ -28,7 +29,7 @@
 >    
 > * **Salas Sotelo Aleks (Coordinador de Electrónica)**
 >
->  ![WhatsApp Image 2024-04-04 at 8 48 50 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/56ac4e03-9471-48e6-b0bc-812d4cdbbb83)
+>  ![WhatsApp Image 2024-04-19 at 1 14 09 PM (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/ea8a6f8f-aa9c-4c29-80c7-f6b3940ed3d5)
 
 >   Tengo 18 años,soy de Ica, hago deportes de combate. Mi rol es el de coordinador de el area de electronica.
 >   
@@ -37,7 +38,7 @@
 
 > * **Ariana Abigail Marcos Balcazar (Coordinadora de Investigación)**
 >
->  ![abigail](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528857/6c4506eb-648b-4ad4-ab99-e78fe682b8d6)
+>  ![WhatsApp Image 2024-04-19 at 1 14 09 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/360dc74a-b484-48bd-8612-1a64a37fd916)
 
 
 >   Estudiante de Ingenieria
@@ -46,7 +47,7 @@ Perú y la Universidad
 Peruana Cayetano Heredia. Interesada en la rama de Ingeniería de tejidos y biomateriales. Mi rol en el proyecto del curso de Fundamentos de Biodiseño es en el área de investigación y programación.
 > * **Adriana Martha Valerio Dominguez (Coordinadora de Investigación)**
 > 
->![yo 2 (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/f91dc9f4-2e18-4040-b9e5-ed39249df85f)
+>  ![WhatsApp Image 2024-04-24 at 1 41 05 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/06c90c63-9cea-464b-85b2-dd8bcdca36c8)
 > 
 >   Tengo 19 años, nací en ciudad de Huancayo, estudio Ingenieria Biomedica en las universidades PUCP y UPCH, me gusta el futbol, el voley y los videojuegos. Estoy interesada en Ingenieria de tejidos y Ingenieria Clinica. Mi rol en el equipo es el de investigar.
 
