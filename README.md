@@ -2,10 +2,13 @@
 # FUNDAMENTOS-DE-BIODISE-O-GRUPO-5
 
 ## Descripción del curso 
-
+>
 >El objetivo principal del curso es introducirnos a nosotros como estudiantes al proceso de diseño e innovación de propuestas tecnologicas relacionadas a la salud y rehabilitacion con el proposito de crear una solucion relevante para la sociedad actual. Todo esto gracias a la guia y ayuda de especialistas en diversas areas de la ingenieria y de la salud. Gracias a su ayuda podremos proponer una solucion a una problematica especifica para cada grupo, en nuestro caso discapacidad motora.
 
 ## Miembros del equipo 5
+>
+> ![WhatsApp Image 2024-04-15 at 7 36 48 PM](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/42c38900-ad7a-42b7-a0af-9b6961da82bb)
+>
 > * **Sebastian Fabrizio Sulca Garay (Coordinador General)**
 >
 >  ![WhatsApp Image 2024-04-19 at 1 14 10 PM (2)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/dd7e212f-de26-452a-8d73-c8c99c9f2530)
@@ -21,7 +24,7 @@
 >
 > * **Hudson Oliva Gonzales (Coodinador de Programación)**
 >
->    ![WhatsApp Image 2024-04-19 at 1 14 10 PM (1) (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/862f36ad-1172-48c0-a600-268023ee26cf)
+>  ![WhatsApp Image 2024-04-19 at 1 14 10 PM (1) (1)](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/862f36ad-1172-48c0-a600-268023ee26cf)
 
 
 >   Tengo 20 años, naci en Piura, me gusta los videojuegos y el futbol. Tengo 2 perros mascota llamados Rocco y Canela.
