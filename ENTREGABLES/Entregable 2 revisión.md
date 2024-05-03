@@ -1,4 +1,5 @@
-> Entregable -posdt revisión
+> # *ENTREGABLE 2 REVISIÓN*
+>
 > ![Captura de pantalla 2024-05-03 103400](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/7e695876-42b3-4059-9afe-3e537dd4bae9)
 > 
 > ![Captura de pantalla 2024-05-03 104537](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/3f583055-04cd-4815-a603-dc9953c62f56)
