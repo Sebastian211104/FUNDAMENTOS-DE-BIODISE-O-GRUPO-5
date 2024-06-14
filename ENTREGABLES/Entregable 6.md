@@ -7,3 +7,11 @@
 ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/592f052e-d468-4477-8f0d-ca21ae829542)
 
 ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/b3036aa6-2b20-4964-b53c-b7c1a60fe86a)
+
+> *COMPONENTES*
+> 
+> https://sketchfab.com/adriananvalerio
+>
+> *VIDEO*
+>
+> 
