@@ -1,6 +1,6 @@
-![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/dbcbc0b1-eac8-4f02-abac-4be30c4e5b5e)![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/da6972f4-972e-4ebb-83e1-06346c758328)
+![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/59398395-e113-4c35-8603-290ed0ec16d6)
 
-![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/a78a7a41-cff9-4019-b3ce-31d98c2d51e7)
+![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/736f23ff-b3f6-4a7d-aa39-ee4f1c908029)
 
 ![image](https://github.com/Sebastian211104/FUNDAMENTOS-DE-BIODISE-O-GRUPO-5/assets/164528827/b86e706b-89d3-411f-9080-476d68132792)
 
